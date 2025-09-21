@@ -2,7 +2,8 @@
 Programa Challenge para el Curso Alura Latam 
 # Amigo-Secreto
 Programa desarrollado como ejercicio de práctica en lógica de programación de Alura Latam , que permite a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
-<img width="1351" height="628" alt="image" src="https://github.com/user-attachments/assets/a816d90f-ff05-4433-8814-b2968a81715d" />
+<img width="1351" height="627" alt="image" src="https://github.com/user-attachments/assets/0f8b68e3-7000-4e42-ab02-6815bccb0851" />
+
 
 
 # Funcionalidades
